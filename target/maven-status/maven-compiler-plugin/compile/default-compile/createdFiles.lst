@@ -1,3 +1,4 @@
+com\laioffer\onlineOrder\dao\MenuInfoDao.class
 com\laioffer\onlineOrder\SecurityConfig.class
 com\laioffer\onlineOrder\controller\CheckoutController.class
 com\laioffer\onlineOrder\ApplicationConfig.class
@@ -11,6 +12,7 @@ com\laioffer\onlineOrder\service\CustomerService.class
 com\laioffer\onlineOrder\dao\CustomerDao.class
 com\laioffer\onlineOrder\entity\MenuItem.class
 com\laioffer\onlineOrder\HelloServlet.class
+com\laioffer\onlineOrder\service\MenuInfoService.class
 com\laioffer\onlineOrder\controller\CartController.class
 com\laioffer\onlineOrder\entity\Cart.class
 com\laioffer\onlineOrder\controller\MenuInfoController.class

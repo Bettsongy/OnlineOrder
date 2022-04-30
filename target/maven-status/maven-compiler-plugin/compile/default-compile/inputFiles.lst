@@ -2,7 +2,9 @@ E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\entity\MenuIte
 E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\entity\Cart.java
 E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\controller\CartController.java
 E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\controller\ItemOrderController.java
+E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\service\MenuInfoService.java
 E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\entity\OrderItem.java
+E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\dao\MenuInfoDao.java
 E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\entity\Restaurant.java
 E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\entity\Customer.java
 E:\JobProjects\onlineOrder\src\main\java\com\laioffer\onlineOrder\HelloServlet.java
